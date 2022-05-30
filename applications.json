@@ -10,6 +10,16 @@
     "tags": [
       "slack",
       "birthday"
+    ],
+    "inputs": [
+      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
+      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
+      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"}
+    ],
+    "output": [
+      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
+      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
+      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"}
     ]
   }
 ]
