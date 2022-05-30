@@ -140,7 +140,7 @@
             Crypto space requires better understating and risk analysis before taking any actions. Please make sure you have all required awarenes and risk understanding before making any investments in Crypto area.
         </span>
     </div>
-    <div className="font-normal text-md text-white text-justify leading-tight mt-2 bg-[#204A5F] rounded-xl p-4" style="background-color: #204A5F;">
+    <div className="font-normal text-md text-white text-justify leading-tight mt-2 rounded-xl p-4" style="background-color: #204A5F;">
         <b>Take Note:</b>
         <br />
         <span className="text-sm">
