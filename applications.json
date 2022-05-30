@@ -4,6 +4,7 @@
     "description": "Sends birthday messages to Slack Channel",
     "slug": "birthday-celebrator",
     "icon": ["fas", "birthday-cake"],
+    "color": "#F45B69",
     "author": "Robomotion",
     "category": "Slack",
     "tags": [
