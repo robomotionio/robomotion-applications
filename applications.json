@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Birthday Celebrator",
+    "description": "Sends birthday messages to Slack Channel",
+    "icon": ["fas", "birthday-cake"],
+    "author": "Robomotion",
+    "category": "Slack",
+    "tags": [
+      "slack",
+      "birthday"
+    ],
+  }
+]
