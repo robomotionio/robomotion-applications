@@ -2,6 +2,7 @@
   {
     "name": "Birthday Celebrator",
     "description": "Sends birthday messages to Slack Channel",
+    "slug": "birthday-celebrator",
     "icon": ["fas", "birthday-cake"],
     "author": "Robomotion",
     "category": "Slack",
