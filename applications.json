@@ -1,25 +1,15 @@
 [
   {
-    "name": "Birthday Celebrator",
-    "description": "Sends birthday messages to Slack Channel",
-    "slug": "birthday-celebrator",
-    "icon": ["fas", "birthday-cake"],
-    "color": "#F45B69",
+    "name": "Crypto Strategy Simulator",
+    "description": "Run your trading strategies on any Coin within given time range.",
+    "slug": "crypto-strategy-simulator",
+    "icon": ["fas", "bitcoin"],
+    "color": "#FFBD64",
     "author": "Robomotion",
-    "category": "Slack",
+    "category": "Cryto",
     "tags": [
       "slack",
       "birthday"
-    ],
-    "inputs": [
-      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
-      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
-      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"}
-    ],
-    "outputs": [
-      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
-      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"},
-      {"name": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet"}
     ]
   }
 ]
