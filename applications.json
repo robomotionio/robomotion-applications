@@ -3,7 +3,7 @@
     "name": "Crypto Strategy Simulator",
     "description": "Run your trading strategies on any Coin within given time range.",
     "slug": "crypto-strategy-simulator",
-    "icon": ["fas", "bitcoin"],
+    "icon": ["fab", "bitcoin"],
     "color": "#FFBD64",
     "author": "Robomotion",
     "category": "Cryto",
