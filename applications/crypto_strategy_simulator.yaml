@@ -3,7 +3,7 @@
   description: Run your trading strategies on any Coin within given time range.
   slug: crypto-strategy-simulator
   icon: ["fab", "bitcoin"]
-  color: #FFBD64
+  color: "#FFBD64"
   screenshots:
     - crypto_strategy_simulator_strategies.png
     - crypto_strategy_simulator_customize.png

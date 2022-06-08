@@ -7,6 +7,7 @@
       "fab",
       "bitcoin"
     ],
+    "color": "#FFBD64",
     "screenshots": [
       "crypto_strategy_simulator_strategies.png",
       "crypto_strategy_simulator_customize.png"
